@@ -1,0 +1,123 @@
+html{
+    font-family: sans-serif;
+    
+}
+
+ul.no-bullets{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.days_bold{
+    font-weight: bold;
+}
+tr:nth-child(odd){
+    /*background-color: #D6EEEE;*/
+    background-color: #eee;
+}
+
+table {
+    width: 100%;
+    table-layout: auto;
+    border-collapse: collapse;
+    border-spacing: 80px 0;
+}
+
+div.mebc_calendar_footer{
+    text-align: right;
+    margin-right: 30px;
+}
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 35px;
+    font-weight: normal;
+}
+
+td{
+    text-align: center;
+    padding: 10px 0;
+}
+
+th.weekdays{
+    background-color:#E0FF33;
+}
+
+th.weekdays_bird{
+    background-color:#FFFFFF;
+}
+
+
+.red{
+    color: #ff0000;
+}
+
+.blues{
+    color: #4a86e8;
+}
+
+.chuck{
+    color: #f1c232;
+}
+
+.bomb{
+    color: #000000;
+}
+
+.matilda{
+    color: #8064a2;
+}
+
+.silver{
+    color: #999999;
+}
+
+.terence{
+    color: #980000;
+}
+
+.bubbles{
+    color: #f79646;
+}
+
+.leonard{
+    color: #38761d;
+}
+.leo{
+    color: #38761d;
+}
+
+.stella{
+    color: #ff00ff;
+}
+
+.hal{
+    color: #93c47d;
+}
+
+.collapse{
+    color: #0000ff;
+}
+
+.end{
+    color: #a2c4c9;
+}
+
+.shuffle{
+    color: #0000ff;
+}
+
+.rewind{
+    color: #0000ff;
+}
+
+.cuts{
+    color: #a2c4c9;
+}
+
+.free{
+    color: #0000ff;
+}
+.
+.
